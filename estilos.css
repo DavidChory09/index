@@ -1,0 +1,34 @@
+h1{
+    color: rgb(255, 126, 5);
+    font-size: 35px;
+}
+div{
+    background-color: rgb(254, 255, 166);
+}
+h2{
+    color: purple;
+    font-size: 25px;
+}
+p{
+    font-size: 18px;
+}
+aside{
+    display: inline-block;
+    width: 150px;
+    min-height: 700px;
+    background: pink;
+    float: right;
+    margin: 20px;
+}
+.texto{
+    background:mistyrose;
+}
+.resaltado{
+    background: peachpuff;
+}
+.concepto{
+    background:lightblue ;
+}
+footer{
+    background: silver;
+}
